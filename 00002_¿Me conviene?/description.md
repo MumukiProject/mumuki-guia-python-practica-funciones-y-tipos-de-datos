@@ -13,4 +13,4 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 > True # cumple las tres condiciones
 > ```
 >
-> :memo: Asumí que la función `cuanto_cuesta` ya se encuentra desarrollada
+> :memo: Ya tenés la función `cuanto_cuesta` que definiste en el ejercicio anterior.
