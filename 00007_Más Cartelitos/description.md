@@ -7,7 +7,7 @@ Por eso ahora nos toca mejorar nuestra función de forma que reciba 4 párámetr
 * Un booleano que nos indique si queremos un cartelito corto con sólo título y apellido, o uno largo, como hasta ahora.
 
 
-> Modificá la función `escribir_cartelito`, de forma que se comporte como se describe arriba. Ejemplo:
+> Modificá la función `escribir_cartelito`, de forma que se comporte como se describe arriba.
 >
 > ```python
 > ム escribir_cartelito("Lic.", "Tomás", "Peralta", True)
