@@ -5,7 +5,7 @@ Bueno, ehm, no, pará, primero queremos calcular cuántos puntos de envido suma 
 
 > Utilizando la función `valor_envido` (que ya escribimos nosotros por vos), desarrollá la función `puntosDeEnvidoTotales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo:
 >
-> ```javascript
+> ```python
 > ム puntosDeEnvidoTotales(1, "espadas", 4, "espadas")
 > 25
 > ム puntosDeEnvidoTotales(2, "copas", 3, "bastos")

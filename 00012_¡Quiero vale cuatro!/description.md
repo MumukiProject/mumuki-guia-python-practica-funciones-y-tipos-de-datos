@@ -9,7 +9,7 @@ Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la
 
 > Escribí la función `valor_canto_truco`, que tome el canto y devuelva cuántos puntos vale.
 >
-> ```javascript
+> ```python
 > ム valor_canto_truco("retruco")
 > 3
 > ```

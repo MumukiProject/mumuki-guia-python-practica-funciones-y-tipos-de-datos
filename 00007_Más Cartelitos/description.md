@@ -9,7 +9,7 @@ Por eso ahora nos toca mejorar nuestra función de forma que reciba 4 párámetr
 
 > Modificá la función `escribir_cartelito`, de forma que se comporte como se describe arriba. Ejemplo:
 >
-> ```javascript
+> ```python
 > ム escribir_cartelito("Lic.", "Tomás", "Peralta", true)
 > "Lic. Peralta"
 > ム escribir_cartelito("Ing.", "Dana", "Velázquez", false)

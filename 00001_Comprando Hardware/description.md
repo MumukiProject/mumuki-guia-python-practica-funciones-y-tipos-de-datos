@@ -6,7 +6,7 @@ Queremos comprar una computadora nueva :computer:, y nos gustaría saber cuánto
 
 > Escribí una función `cuanto_cuesta` que tome el número de pulgadas del monitor y la cantidad de memoria, y calcule el costo estimado de nuestra computadora.
 >
-> ```javascript
+> ```python
 > ム cuanto_cuesta(25, 8)
 > 4100
 > ```

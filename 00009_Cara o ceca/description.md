@@ -4,7 +4,7 @@ Es allí que tomamos una moneda y decimos: _si sale cara, comemos pizzas, si no,
 
 > Escribí una función `decision_con_moneda`, que toma tres parámetros y devuelve el segundo si el primero es `"cara"`, o el tercero, si sale `"ceca"`. Por ejemplo:
 >
-> ```javascript
+> ```python
 > ム decision_con_moneda("cara", "pizzas", "empanadas")
 > "pizzas"
 > ```

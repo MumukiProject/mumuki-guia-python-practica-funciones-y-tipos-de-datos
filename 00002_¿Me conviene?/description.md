@@ -6,7 +6,7 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 
 > Escribí la función `me_conviene`, que nuevamente tome el número de pulgadas y cantidad de memoria:
 >
-> ```javascript
+> ```python
 > ム me_conviene(25, 8)
 > false // porque el monitor es demasiado chico
 > ム me_conviene(42, 12)

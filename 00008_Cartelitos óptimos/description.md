@@ -5,7 +5,7 @@ Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chi
 
 > Escrbí la función `escribir_cartelito_optimo` que tome un título, un nombre y un apellido, y genere un cartelito corto o largo, según las reglas anteriores. Ejemplo:
 >
-> ```javascript
+> ```python
 > ム escribir_cartelito_optimo("Ing.", "Carla", "Toledo")
 > "Ing. Carla Toledo"
 > ム escribir_cartelito_optimo("Dr.", "Estanislao", "Schwarzschild")
