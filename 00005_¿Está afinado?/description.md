@@ -8,4 +8,7 @@ Cuando presionamos una tecla de un piano, éste produce un sonido que tiene una 
 > ```python
 > ム esta_afinado(440)
 > True
+>
+> ム esta_afinado(438)
+> False
 > ````
