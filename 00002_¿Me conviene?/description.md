@@ -8,9 +8,9 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 >
 > ```python
 > ム me_conviene(25, 8)
-> false // porque el monitor es demasiado chico
+> False # porque el monitor es demasiado chico
 > ム me_conviene(42, 12)
-> true // cumple las tres condiciones
+> True # cumple las tres condiciones
 > ```
 >
 > :memo: Asumí que la función `cuanto_cuesta` ya se encuentra desarrollada
