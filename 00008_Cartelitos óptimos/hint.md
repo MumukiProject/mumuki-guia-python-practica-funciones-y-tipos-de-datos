@@ -1,1 +1,1 @@
-Recordá que contás con la función `longitud`
+Recordá que el largo de un string lo podés saber con la función `len`

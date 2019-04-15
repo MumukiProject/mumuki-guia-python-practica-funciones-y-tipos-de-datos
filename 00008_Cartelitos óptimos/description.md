@@ -11,5 +11,3 @@ Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chi
 > ム escribir_cartelito_optimo("Dr.", "Estanislao", "Schwarzschild")
 > "Dr. Schwarzschild"
 > ```
->
-> :memo: No modifiques la función original.

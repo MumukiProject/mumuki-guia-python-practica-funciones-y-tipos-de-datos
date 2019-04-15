@@ -1,6 +1,11 @@
-def test_escribe_un_cartelito_largo_cuando_el_nombre_completo_es_corto(self):
+def test_escribe_un_cartelito_largo_cuando_el_nombre_es_carla_toledo(self):
   self.assertEqual(escribir_cartelito_optimo("Ing.", "Carla", "Toledo"), "Ing. Carla Toledo")
 
-def test_escribe_un_cartelito_corto_cuando_el_nombre_completo_es_largo(self):
+def test_escribe_un_cartelito_largo_cuando_el_nombre_es_branco_luis(self):
+  self.assertEqual(escribir_cartelito_optimo("Ing.", "Branco", "Luis"), "Ing. Branco test_escribe_un_cartelito_largo_cuando_el_nombre_es_branco_luis")
+
+def test_escribe_un_cartelito_corto_cuando_el_nombre_es_estanislao_schwarzschild(self):
   self.assertEqual(escribir_cartelito_optimo("Dr.", "Estanislao", "Schwarzschild"), "Dr. Schwarzschild")
 
+def test_escribe_un_cartelito_corto_cuando_el_nombre_es_katherine_boumann(self):
+  self.assertEqual(escribir_cartelito_optimo("Ing.", "Katherine", "Boumann"), "Ing. Boumann")
