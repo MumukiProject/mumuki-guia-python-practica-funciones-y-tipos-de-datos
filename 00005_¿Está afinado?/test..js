@@ -1,7 +1,7 @@
-describe("estaAfinado", () => {
-  it("NO estaAfinado(443)", () => { assert(!estaAfinado(443)) })
-  it("NO estaAfinado(442)", () => { assert(!estaAfinado(442)) })
-  it("NO estaAfinado(437)", () => { assert(!estaAfinado(437)) })
-  
-  it("estaAfinado(440)", () => { assert(estaAfinado(440)) })
+describe("esta_afinado", () => {
+  it("NO esta_afinado(443)", () => { assert(!esta_afinado(443)) })
+  it("NO esta_afinado(442)", () => { assert(!esta_afinado(442)) })
+  it("NO esta_afinado(437)", () => { assert(!esta_afinado(437)) })
+
+  it("esta_afinado(440)", () => { assert(esta_afinado(440)) })
 })

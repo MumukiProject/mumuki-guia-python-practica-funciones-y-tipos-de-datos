@@ -1,11 +1,11 @@
-it("valorCantoTruco(\"retruco\") es 3", ()  => {
-  assert.equal(valorCantoTruco("retruco"), 3)
+it("valor_canto_truco(\"retruco\") es 3", ()  => {
+  assert.equal(valor_canto_truco("retruco"), 3)
 })
 
-it("valorCantoTruco(\"truco\") es 2", ()  => {
-  assert.equal(valorCantoTruco("truco"), 2)
+it("valor_canto_truco(\"truco\") es 2", ()  => {
+  assert.equal(valor_canto_truco("truco"), 2)
 })
 
-it("valorCantoTruco(\"vale cuatro\") es 4", ()  => {
-  assert.equal(valorCantoTruco("vale cuatro"), 4)
+it("valor_canto_truco(\"vale cuatro\") es 4", ()  => {
+  assert.equal(valor_canto_truco("vale cuatro"), 4)
 })

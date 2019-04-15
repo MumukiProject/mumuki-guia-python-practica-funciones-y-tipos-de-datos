@@ -1,4 +1,4 @@
-Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la apuesta. Por ejemplo, si un jugador canta _truco_, otro jugador puede cantarle _retruco_. Obviamente, los puntos que están en juego son cada vez mayores: 
+Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la apuesta. Por ejemplo, si un jugador canta _truco_, otro jugador puede cantarle _retruco_. Obviamente, los puntos que están en juego son cada vez mayores:
 
 <table class="table table-striped">
    <tr><th>Canto</th><th>Puntos en juego</th></tr>
@@ -7,11 +7,11 @@ Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la
    <tr><td>vale cuatro</td><td>4</td></tr>
 </table>
 
-> Escribí la función `valorCantoTruco`, que tome el canto y devuelva cuántos puntos vale. 
-> 
+> Escribí la función `valor_canto_truco`, que tome el canto y devuelva cuántos puntos vale.
+>
 > ```javascript
-> ム valorCantoTruco("retruco")
+> ム valor_canto_truco("retruco")
 > 3
 > ```
 >
-> :warning: Asumí que sólo te van a pasar como argumento un string que represente un canto de truco. Por ejemplo, no vamos a probar la función para el caso `valorCantoTruco("zaraza")`
+> :warning: Asumí que sólo te van a pasar como argumento un string que represente un canto de truco. Por ejemplo, no vamos a probar la función para el caso `valor_canto_truco("zaraza")`

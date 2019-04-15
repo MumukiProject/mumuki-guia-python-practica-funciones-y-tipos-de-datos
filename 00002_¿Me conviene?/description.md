@@ -1,16 +1,16 @@
-Ahora que sabemos cuánto nos sale una computadora, queremos saber si una computadora _me conviene_. Esto ocurre cuando: 
+Ahora que sabemos cuánto nos sale una computadora, queremos saber si una computadora _me conviene_. Esto ocurre cuando:
 
 * sale menos de $6000, y
 * tiene al menos un monitor de 32 pulgadas, y
 * tiene al menos 8GB de memoria
 
-> Escribí la función `meConviene`, que nuevamente tome el número de pulgadas y cantidad de memoria: 
-> 
+> Escribí la función `me_conviene`, que nuevamente tome el número de pulgadas y cantidad de memoria:
+>
 > ```javascript
-> ム meConviene(25, 8)
+> ム me_conviene(25, 8)
 > false // porque el monitor es demasiado chico
-> ム meConviene(42, 12)
+> ム me_conviene(42, 12)
 > true // cumple las tres condiciones
 > ```
-> 
-> :memo: Asumí que la función `cuantoCuesta` ya se encuentra desarrollada
+>
+> :memo: Asumí que la función `cuanto_cuesta` ya se encuentra desarrollada

@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: escribirCartelitoOptimo
+- binding: escribir_cartelito_optimo
   inspection: HasBinding
-- binding: escribirCartelito
+- binding: escribir_cartelito
   inspection: HasBinding

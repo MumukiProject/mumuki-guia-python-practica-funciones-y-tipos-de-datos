@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: perimetroTriangulo
+- binding: perimetro_triangulo
   inspection: HasBinding
-- binding: areaTriangulo
+- binding: area_triangulo
   inspection: HasBinding

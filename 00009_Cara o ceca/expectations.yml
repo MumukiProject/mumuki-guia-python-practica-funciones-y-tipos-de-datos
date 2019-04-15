@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: decisionConMoneda
+- binding: decision_con_moneda
   inspection: HasBinding
 - binding: "*"
   inspection: Except:DoesTypeTest

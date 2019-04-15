@@ -1,6 +1,6 @@
-Y ahora es el turno de los cuadrados; queremos saber 
+Y ahora es el turno de los cuadrados; queremos saber
 
-* `perimetroCuadrado`: dado un lado, queremos saber cuánto mide su perímetro. 
-* `areaCuadrado`: dado un lado, queremos saber cuál es su area
+* `perimetro_cuadrado`: dado un lado, queremos saber cuánto mide su perímetro.
+* `area_cuadrado`: dado un lado, queremos saber cuál es su area
 
-> Desarrollá las funciones `perimetroCuadrado` y `areaCuadrado`
+> Desarrollá las funciones `perimetro_cuadrado` y `area_cuadrado`

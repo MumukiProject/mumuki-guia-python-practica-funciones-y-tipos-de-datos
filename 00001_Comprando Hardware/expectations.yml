@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: cuantoCuesta
+- binding: cuanto_cuesta
   inspection: HasBinding

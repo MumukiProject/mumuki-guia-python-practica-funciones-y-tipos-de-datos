@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: valorCantoTruco
+- binding: valor_canto_truco
   inspection: HasBinding
 - binding: "*"
   inspection: Except:DoesTypeTest
