@@ -1,7 +1,12 @@
-describe("esta_afinado", () => {
-  it("NO esta_afinado(443)", () => { assert(!esta_afinado(443)) })
-  it("NO esta_afinado(442)", () => { assert(!esta_afinado(442)) })
-  it("NO esta_afinado(437)", () => { assert(!esta_afinado(437)) })
+  def test_NO_esta_afinado_443_(self):
+    self.assertTrue(not esta_afinado(443))
 
-  it("esta_afinado(440)", () => { assert(esta_afinado(440)) })
-})
+  def test_NO_esta_afinado_442_(self):
+    self.assertTrue(not esta_afinado(442))
+
+  def test_NO_esta_afinado_437_(self):
+    self.assertTrue(not esta_afinado(437))
+
+  def test_esta_afinado(440)(self):
+    self.assertTrue(esta_afinado(440))
+
