@@ -8,6 +8,6 @@
   def test_NO_esta_afinado_437_(self):
     self.assertTrue(not esta_afinado(437))
 
-  def test_esta_afinado(440)(self):
+  def test_esta_afinado_440(self):
     self.assertTrue(esta_afinado(440))
 
