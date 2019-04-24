@@ -1,5 +1,5 @@
   
-  def test_escribir_cartelito_Dra_Ana_Pérez_false_es_Dra_Ana_Perez(self):
+  def test_escribir_cartelito_Dra_Ana_Perez_false_es_Dra_Ana_Perez(self):
     self.assertEqual(escribir_cartelito("Dra.", "Ana", "Perez", False), "Dra. Ana Perez")
   
   def test_escribir_cartelito_Dr_Julio_Gelman_false_es_Dr_Julio_Gelman(self):
