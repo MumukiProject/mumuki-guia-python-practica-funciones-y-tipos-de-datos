@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: perimetro_cuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: perimetro_cuadrado
   inspection: HasBinding
-- binding: area_cuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: area_cuadrado
   inspection: HasBinding

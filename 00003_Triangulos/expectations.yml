@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: perimetro_triangulo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: perimetro_triangulo
   inspection: HasBinding
-- binding: area_triangulo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: area_triangulo
   inspection: HasBinding

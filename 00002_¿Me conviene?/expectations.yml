@@ -1,8 +1,0 @@
----
-expectations:
-- binding: me_conviene
-  inspection: HasBinding
-- binding: cuanto_cuesta
-  inspection: Not:HasBinding
-- binding: me_conviene
-  inspection: Not:HasIf
