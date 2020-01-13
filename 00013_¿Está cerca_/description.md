@@ -2,7 +2,7 @@ Ahora queremos saber si el _la_ central del piano está _cerca_ de estar afinado
 
 ```python
 ム esta_cerca(443)
-True # está en el rango 337-443
+True # está en el rango 437-443
 ム esta_cerca(442)
 True # ídem caso anterior
 ム esta_cerca(440)
