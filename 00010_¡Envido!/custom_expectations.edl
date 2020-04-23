@@ -1,2 +1,2 @@
 expectation "`valor_envido` no debe tener un retorno por cada carta posible":
-  through `valor_envido` count (returns) <= 3;
+  through `valor_envido` count (returns) <= 2;
