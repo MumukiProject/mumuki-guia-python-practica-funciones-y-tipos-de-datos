@@ -1,2 +1,2 @@
 expectation "`valor_envido` no tiene un retorno por cada carta posible":
-  through `valor_envido` ! returns with literal;
+  through `valor_envido`  ! returns with literal;
