@@ -1,2 +1,4 @@
-expectation "`valor_envido` no tiene un retorno por cada carta posible":
-  through `valor_envido`  ! returns with literal;
+expectation "`valor_envido` no debe tener un retorno por cada carta posible":
+  through `valor_envido` ! (
+    returns with 1
+  );
