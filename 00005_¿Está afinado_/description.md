@@ -4,7 +4,7 @@ Cuando presionamos una tecla de un piano, éste produce un sonido que tiene una 
 	<img width="200px" src="https://raw.githubusercontent.com/mumuki/mumuki-guia-javascript-practica-funciones-y-tipos-de-datos/master/assets/piano.jpg"></img>
 </div>
 
-> Desarrollá una función `esta_afinado`, que reciba la frecuencia (un número) del _la_ central, y diga si dicha frecuencia es igual a 440Hz.
+> Definí la función `esta_afinado`, que reciba la frecuencia (un número) del _la_ central, y retorne si dicha frecuencia es igual a 440Hz.
 >
 > ```python
 > ム esta_afinado(440)
