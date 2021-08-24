@@ -4,7 +4,7 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 * tiene al menos un monitor de 32 pulgadas, y
 * tiene al menos 8GB de memoria
 
-> Escribí la función `me_conviene`, que nuevamente tome el número de pulgadas y cantidad de memoria:
+> Definí la función `me_conviene`, que nuevamente tome el número de pulgadas y cantidad de memoria:
 >
 > ```python
 > ム me_conviene(25, 8)
