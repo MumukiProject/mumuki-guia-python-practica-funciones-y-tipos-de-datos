@@ -1,6 +1,6 @@
 Ah, ¡pero no tan rápido! Algunas veces en nuestro cartelito :name_badge: sólo queremos el título y el apellido, sin el nombre.
 
-Por eso ahora nos toca mejorar nuestra función de forma que reciba 4 párámetros:
+Por eso ahora nos toca mejorar nuestra función de forma que tome 4 párámetros:
 
 * El título
 * El nombre y el apellido, como hasta ahora
